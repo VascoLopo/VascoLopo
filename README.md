@@ -1,10 +1,16 @@
 - 👋 Hi, I’m @VascoLopo
-- 👀 I’m interested in ...puplic policies
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-VascoLopo/VascoLopo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Recent Graduate in Political Economy and Data Management and Analysis
+🔬 Working on personal projects combining data science, AI, and technology
+🤖 Experience in Natural Language Processing (NLP)
+👁️ Interested in Computer Vision and its potential to transform industries
+
+🌟 Skills & Interests
+Programming Languages: Python, R, SQL
+Data Science: Machine Learning, Data Analysis, Visualization
+NLP: Sentiment Analysis, Text Classification
+Computer Vision: Exploring Object Detection, Image Recognition, video analysis
+Tools: TensorFlow, Tweepy, Scikit-learn, YOLO vision
+
+🚀 Current Projects
+I'm currently working on a personal project where I apply data management and AI techniques to real-world problems. Follow along to see my progress in NLP, and soon in Computer Vision too!
