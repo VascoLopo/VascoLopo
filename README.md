@@ -3,7 +3,7 @@
 🎓 Recent Graduate in Political Economy and Data Management and Analysis
 🔬 Working on personal projects combining data science, AI, and technology
 🤖 Experience in Natural Language Processing (NLP)
-👁️ Interested in Computer Vision and its potential to transform industries
+👁️ Interested in Computer Vision and its potential to transform sports industries
 
 🌟 Skills & Interests
 Programming Languages: Python, R, SQL
