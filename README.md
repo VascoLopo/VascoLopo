@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @VascoLopo
 
 🎓 Recent Graduate in Political Economy and Data Management and Analysis
+
 🔬 Working on personal projects combining data science, AI, and sports
+
 🤖 Some working experience in Natural Language Processing (NLP)
+
 👁️ Interested in Computer Vision and its potential farm data 
 
 🌟 Skills & Interests
